@@ -1,0 +1,13 @@
+django
+gunicorn
+django-heroku
+pandas
+numpy
+matplotlib
+seaborn
+flask
+dash
+dash_core_components
+dash_html_components
+plotly
+xlrd
